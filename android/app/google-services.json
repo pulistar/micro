@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542377655219",
+    "project_id": "micro-f9130",
+    "storage_bucket": "micro-f9130.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542377655219:android:bf59c09943e595d70d69c6",
+        "android_client_info": {
+          "package_name": "com.example.micro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfD2QAzPJiKy-3t-aSwoX3alk9VW9rxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
